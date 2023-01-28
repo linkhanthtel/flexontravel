@@ -1,0 +1,146 @@
+* {
+    margin: auto;
+    padding: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+nav {
+    background-color: black;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.homepage {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 50%;
+    padding-left: 50px;
+    color: white;
+    background-image: url(images/image1.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.homepage a{
+    color: lightgreen;
+}
+
+.specialdiscounts{
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 50%;
+    background-image: url(images/image7.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+}
+
+span{
+    color: lightgreen;
+}
+
+.service {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 50%;
+    padding-left: 50px;
+    color: white;
+    background-image: url(images/image2.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.upcoming{
+    display: flex;
+    justify-content: center;
+}
+
+.upcoming .upcomingtour {
+    color: white;
+    background-image: url(images/image3.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.upcoming .recenttrip {
+    color: white;
+    background-image: url(images/image5.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.memory {
+    display: flex;
+    justify-content: center;
+}
+
+.memory .bestof2022 {
+    color: white;
+    background-image: url(images/image4.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.memory .value {
+    color: white;
+    background-image: url(images/image6.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: bottom;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.about {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image: url(images/image10.jpg);
+    background-size: cover;
+    background-position: left;
+    background-attachment: scroll;
+    background-repeat: none;
+}
+
+
+
+
