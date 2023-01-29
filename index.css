@@ -32,7 +32,7 @@ nav ul li a{
     padding-right: 50%;
     padding-left: 50px;
     color: white;
-    background-image: url(images/image1.jpg);
+    background-image: url(image1.jpg);
     background-position: right bottom;
     background-size: cover;
     background-attachment: scroll;
@@ -47,7 +47,7 @@ nav ul li a{
     padding-top: 200px;
     padding-bottom: 200px;
     padding-left: 50%;
-    background-image: url(images/image7.jpg);
+    background-image: url(image7.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -63,7 +63,7 @@ span{
     padding-right: 50%;
     padding-left: 50px;
     color: white;
-    background-image: url(images/image2.jpg);
+    background-image: url(image2.jpg);
     background-position: bottom;
     background-size: cover;
     background-attachment: scroll;
@@ -76,7 +76,7 @@ span{
 
 .upcoming .upcomingtour {
     color: white;
-    background-image: url(images/image3.jpg);
+    background-image: url(image3.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -88,7 +88,7 @@ span{
 
 .upcoming .recenttrip {
     color: white;
-    background-image: url(images/image5.jpg);
+    background-image: url(image5.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -105,7 +105,7 @@ span{
 
 .memory .bestof2022 {
     color: white;
-    background-image: url(images/image4.jpg);
+    background-image: url(image4.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -117,7 +117,7 @@ span{
 
 .memory .value {
     color: white;
-    background-image: url(images/image6.jpg);
+    background-image: url(image6.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -134,7 +134,7 @@ span{
     padding-bottom: 150px;
     padding-left: 100px;
     padding-right: 100px;
-    background-image: url(images/image10.jpg);
+    background-image: url(image10.jpg);
     background-size: cover;
     background-position: left;
     background-attachment: scroll;
