@@ -36,7 +36,7 @@ nav ul li a{
     padding-right: 50%;
     padding-left: 50px;
     color: white;
-    background-image: url(image1.jpg);
+    background-image: url(images/image1.jpg);
     background-position: right bottom;
     background-size: cover;
     background-attachment: scroll;
@@ -51,7 +51,7 @@ nav ul li a{
     padding-top: 200px;
     padding-bottom: 200px;
     padding-left: 50%;
-    background-image: url(image7.jpg);
+    background-image: url(images/image7.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -67,7 +67,7 @@ span{
     padding-right: 50%;
     padding-left: 50px;
     color: white;
-    background-image: url(image2.jpg);
+    background-image: url(images/image2.jpg);
     background-position: bottom;
     background-size: cover;
     background-attachment: scroll;
@@ -81,7 +81,7 @@ span{
 
 .upcoming .upcomingtour {
     color: white;
-    background-image: url(image3.jpg);
+    background-image: url(images/image3.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -93,7 +93,7 @@ span{
 
 .upcoming .recenttrip {
     color: white;
-    background-image: url(image5.jpg);
+    background-image: url(images/image5.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -111,7 +111,7 @@ span{
 
 .memory .bestof2022 {
     color: white;
-    background-image: url(image4.jpg);
+    background-image: url(images/image4.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -123,7 +123,7 @@ span{
 
 .memory .value {
     color: white;
-    background-image: url(image6.jpg);
+    background-image: url(images/image6.jpg);
     background-size: cover;
     background-attachment: scroll;
     background-position: bottom;
@@ -140,7 +140,7 @@ span{
     padding-bottom: 150px;
     padding-left: 100px;
     padding-right: 100px;
-    background-image: url(image9.jpg);
+    background-image: url(images/image9.jpg);
     background-size: cover;
     background-position: left;
     background-attachment: scroll;
@@ -158,7 +158,7 @@ span{
     padding-bottom: 150px;
     padding-left: 40px;
     padding-right: 40px;
-    background-image: url(image8.jpg);
+    background-image: url(images/image8.jpg);
     background-size: cover;
     background-position: left;
     background-attachment: scroll;
@@ -182,7 +182,7 @@ span{
     padding-bottom: 150px;
     padding-left: 30px;
     padding-right: 30px;
-    background-image: url(image10.jpg);
+    background-image: url(images/image10.jpg);
     background-size: cover;
     background-position: left;
     background-attachment: scroll;
@@ -193,5 +193,77 @@ span{
     padding-top: 20px;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
 }
+
+/** footer **/
+
+.footer {
+    color: white;
+    background-color: #000000;
+    padding-bottom: 70px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
+.footer .col1 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.footer .col1 ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer .col2 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.footer .col2 ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer .col3 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.footer .col3 ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer .col4 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.footer .col4 ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.footer-text {
+    color: white;
+    background-color: #000000;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
