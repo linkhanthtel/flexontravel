@@ -32,7 +32,7 @@ nav ul li a{
 
 .service1{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-content: center;
 }
 
@@ -83,16 +83,16 @@ nav ul li a{
 
 .service2{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     justify-content: center;
 }
 
 .service2 .airportpickup {
-    color: black;
+    color: white;
     background-image: url(Images/airport.jpg);
     background-size: cover;
     background-attachment: scroll;
-    background-position: bottom;
+    background-position: top left;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-top: 100px;
@@ -118,11 +118,11 @@ nav ul li a{
 }
 
 .service2 .photo {
-    color: black;
+    color: white;
     background-image: url(Images/photo2.jpg);
     background-size: cover;
     background-attachment: scroll;
-    background-position: bottom;
+    background-position: top left;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-top: 100px;
