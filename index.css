@@ -91,7 +91,6 @@ span{
     padding-bottom: 150px;
     padding-left: 30px;
     padding-right: 40px;
-    border: 5px solid lightcoral;
 }
 
 .upcoming .recenttrip {
@@ -106,7 +105,6 @@ span{
     padding-bottom: 150px;
     padding-left: 30px;
     padding-right: 40px;
-    border: 5px solid lightgreen;
 }
 
 .memory {
@@ -127,7 +125,6 @@ span{
     padding-bottom: 150px;
     padding-left: 30px;
     padding-right: 40px;
-    border: 5px solid lightsalmon;
 }
 
 .memory .value {
@@ -142,7 +139,6 @@ span{
     padding-bottom: 150px;
     padding-left: 30px;
     padding-right: 40px;
-    border: 5px solid lawngreen;
 }
 
 .about {
