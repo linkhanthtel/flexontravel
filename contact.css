@@ -31,13 +31,13 @@ nav ul li a{
 }
 
 .contactpage{
-    color: yellow;
+    color: white;
     text-align: center;
     padding-top: 70px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 150px;
-    background-image: url(image13.jpg);
+    background-image: url(Images/image11.jpg);
     background-attachment: scroll;
     background-size: cover;
     background-position: top left;
@@ -46,11 +46,11 @@ nav ul li a{
 .location{
     padding-top: 50px;
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 100%;
 }
 
 .contactform{
-    background-image: url(image9.jpg);
+    background-image: url(Images/image9.jpg);
     background-size: cover;
     background-position: bottom left;
     color: white;
