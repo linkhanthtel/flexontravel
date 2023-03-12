@@ -12,6 +12,8 @@ button {
 nav {
     background-color: black;
     padding: 20px;
+    width: 100%;
+    position: fixed;
 }
 
 nav ul {
@@ -132,13 +134,15 @@ nav ul li a{
     border: 2px solid black;
 }
 
+/** footer **/
+
 .footer {
     color: white;
     background-color: #000000;
     padding-bottom: 70px;
     display: grid;
     gap: 10px;
-    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
 }
 
 .footer .col1 {
